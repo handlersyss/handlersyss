@@ -1,5 +1,5 @@
 ### 👨‍💻: Sobre mim :
-Sou um curioso na programação epesquisador de bugs. Minha verdadeira especialidade? Dominar as redes, conectando soluções e otimizando sistemas com criatividade e precisão. 
+Sou um curioso na programação e pesquisador de bugs. Minha verdadeira especialidade? Dominar as redes, conectando soluções e otimizando sistemas com criatividade e precisão. 
 
 ---
 
