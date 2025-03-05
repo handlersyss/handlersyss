@@ -23,9 +23,9 @@ Sou um curioso na programação e pesquisador de bugs. Minha verdadeira especial
 
 ### :fire: Minhas estatísticas :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=handlersyss)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handlersyss&langs_count=8)
-
----
-
+<a href="https://streak-stats.demolab.com/?user=handlersyss">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=handlersyss" />
+</a>
+<a href="https://github.com/handlersyss/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handlersyss&langs_count=8" />
+</a>
