@@ -27,6 +27,7 @@ Me chamo Edson(handlersyss) sou um entusiasta na area da programação e também
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=handlersyss)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handlersyss&langs_count=8)
 
 
 ---
