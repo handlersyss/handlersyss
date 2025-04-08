@@ -20,6 +20,9 @@ Me chamo Edson(handlersyss) sou um entusiasta na area da programação e também
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" **alt="C#" width="40" heigth="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" heigth="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" title="KALI" **alt="KALI" width="40" heigth="40"/>
+  <img src="https://www.fortinet.com/content/dam/fortinet/images/general/fortinet-logo.svg" title="Fortinet" **alt="Fortinet" width="100" heigth="100"/>
+  <img src="https://imgs.search.brave.com/LPlSMGK0geLw4AFejHr1L4pZJ2aIMpK5C2rDvhki--g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q0/RDEyQVFGa3ZnS2Np/cE94Z1EvYXJ0aWNs/ZS1jb3Zlcl9pbWFn/ZS1zaHJpbmtfNzIw/XzEyODAvMC8xNzAz/Njg4NzU5ODM3P2U9/MjE0NzQ4MzY0NyZ2/PWJldGEmdD00d2VK/NkJEbVUwZFFjeU1B/MThNVFVaa09sRGRi/MHZ0ZEVXaTJzMDVI/OEpV.jpeg" title="PFsense" **alt="PFsense" width="100" heigth="100"/>
+  <img src="https://imgs.search.brave.com/GL7gpxdI0ckAfSQ-7hDj8KTgfbexINy2Xxe54gDrGgU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/Z2VyLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9pbWcvYi9SMjl2/WjJ4bC9BVnZYc0Vo/QmYweHZVYXRtaWNn/R1VBcHZ6Rmc3N1Ax/M0FWckd6dUNqMm1G/OGNwYnBXRWhGMVBH/N3o5dmxWOHVkMzBZ/UzRPZWpDSTBab1hO/bEJrNXVSNWFSRWx5/TU56RGhBTEw4OWtI/alhyRVpyVVFmYlpj/bDI4ZGVYTl83eVlz/T2lPdlBoaGpDQzVa/ZlY4aHkzUVUvczE2/MDAvemFiYml4LnBu/Zw" title="Zabbix" **alt="Zabbix" width="60" heigth="60"/>
 </div>
 
 ---
