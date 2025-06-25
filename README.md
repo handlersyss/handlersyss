@@ -17,7 +17,7 @@ Me chamo Edson(handlersyss) sou um entusiasta na area da programação e também
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" **alt="SQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" **alt="bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" title="CloudFlare" **alt="bash" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" heigth="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" heigth="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" heigth="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" title="KALI" **alt="KALI" width="40" heigth="40"/>
   <img src="https://www.fortinet.com/content/dam/fortinet/images/general/fortinet-logo.svg" title="Fortinet" **alt="Fortinet" width="100" heigth="100"/>
