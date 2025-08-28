@@ -29,6 +29,6 @@ Me chamo Edson(handlersyss) sou um entusiasta na area da programação e também
 
 ### :fire: Minhas estatísticas :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handlersyss&langs_count=8&?v=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handlersyss&langs_count=8&?v=5&theme=radical)
 
 ---
