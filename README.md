@@ -1,6 +1,5 @@
 ### 💫: Sobre mim :
-Me chamo Edson(handlersyss) sou um entusiasta na area da programação e também sou pesquisador de bugs. Minha verdadeira especialidade? Dominar as redes, conectando soluções e otimizando sistemas com criatividade e precisão. 
-
+Sou Edson (handlersyss), entusiasta em programação e pesquisador de vulnerabilidades. Tenho como especialidade o universo das redes, unindo soluções e otimizando sistemas com criatividade, eficiência e precisão.
 ---
 
 ![handlersys's GitHub stats](https://github-readme-stats.vercel.app/api?username=handlersyss&show_icons=true&theme=radical)
