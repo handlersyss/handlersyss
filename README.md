@@ -1,5 +1,5 @@
 ### 💫: Sobre mim :
-Sou Edson (handlersyss), entusiasta em programação e pesquisador de vulnerabilidades. Tenho como especialidade o universo das redes, unindo soluções e otimizando sistemas com criatividade, eficiência e precisão.
+Profissional de TI com foco em Redes e Segurança da Informação. Experiência em infraestrutura, firewall, monitoramento, troubleshooting e ambientes Microsoft/Linux. Entusiasta de Cyber Security, análise de vulnerabilidades, hardening e proteção de infraestruturas corporativas, com interesse contínuo em aprendizado e evolução técnica.
 ---
 
 ![handlersys's GitHub stats](https://github-readme-stats.vercel.app/api?username=handlersyss&show_icons=true&theme=radical)
